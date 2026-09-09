@@ -1,0 +1,8 @@
+
+--- ALUNO 1 ---
+Nome: Lucas
+CR: 0.45
+Codigo: 1230123.00
+Semestre: 2.00
+Numero de disciplinas cursadas: 34.00
+Numero de disciplinas de DP: 0.00
