@@ -1,1 +1,7 @@
-0 1 1 1500.00 Salario Salario
+ID: 0
+Tipo da Operacao: 1
+Código da Operacao: 1
+Valor: 4567.00
+Label: ghj
+Descricao: ghjk
+
